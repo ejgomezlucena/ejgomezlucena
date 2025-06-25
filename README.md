@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Enrique José Gómez Lucena 👋
 
-<!--
-**ejgomezlucena/ejgomezlucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of the Advanced Vocational Training Cycle in Multiplatform Application Development (DAM). Currently, I work in another field, but I am looking for internship opportunities to complete my studies and gain experience in this professional area.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java (Intermediate)
+- Kotlin (Intermediate)
+- C# (Basic knowledge)
+- MySQL, Oracle, Firebase (Databases)
+- Eclipse, Android Studio (IDEs)
+
+## 🛠️ Projects
+
+- [Project One](https://github.com/ejgomezlucena/
+
+
+
+## 📫 Contact & Social
+
+- [LinkedIn](htpps://www.linkedin.com/in/enrique-josé-gómez-lucena-624257320)
+- [X](https://x.com/kikeronicus)
+- Email: enriquegomezlucena@gmail.com
+
+---
+
+*Let's connect and grow together in the world of software development!*
