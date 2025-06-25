@@ -18,7 +18,7 @@ I'm a student of the Advanced Vocational Training Cycle in Multiplatform Applica
 
 ## 📫 Contact & Social
 
-- [LinkedIn](htpps://www.linkedin.com/in/enrique-josé-gómez-lucena-624257320)
+- [LinkedIn](www.linkedin.com/in/enrique-josé-gómez-lucena-624257320)
 - [X](https://x.com/kikeronicus)
 - Email: enriquegomezlucena@gmail.com
 
