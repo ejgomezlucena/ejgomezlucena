@@ -8,6 +8,8 @@ I'm a student of the Advanced Vocational Training Cycle in Multiplatform Applica
 - Kotlin (Intermediate)
 - C# (Basic knowledge)
 - MySQL, Oracle, Firebase (Databases)
+- Maven
+- Hibernate
 - Eclipse, Android Studio (IDEs)
 
 ## 🛠️ Projects
