@@ -1,6 +1,6 @@
 # Hi there, I'm Enrique José Gómez Lucena 👋
 
-I'm a student of the Advanced Vocational Training Cycle in Multiplatform Application Development (DAM). Currently, I work in another field, and I am completing my internship to finish my studies and gain experience in this professional area.
+I'm currently studying the Advanced Vocational Training Cycle in Multiplatform Application Development (DAM). While I currently work in another field, I am completing my internship at Obuu as part of my studies, where I am gaining practical experience in software development.
 
 ## 🚀 Technologies & Tools
 
