@@ -1,16 +1,34 @@
 # Hi there, I'm Enrique José Gómez Lucena 👋
 
-I'm a student of the Advanced Vocational Training Cycle in Multiplatform Application Development (DAM). Currently, I work in another field, but I am looking for internship opportunities to complete my studies and gain experience in this professional area.
+I'm a student of the Advanced Vocational Training Cycle in Multiplatform Application Development (DAM). Currently, I work in another field, and I am completing my internship to finish my studies and gain experience in this professional area.
 
 ## 🚀 Technologies & Tools
 
+### 💻 Programming Languages
 - Java (Intermediate)
 - Kotlin (Intermediate)
+- JavaScript (Intermediate)
 - C# (Intermediate)
-- MySQL, Oracle, Firebase (Databases)
-- Maven
-- Hibernate
-- Eclipse, Android Studio (IDEs)
+- HTML (Intermediate)
+
+### ⚙️ Frameworks & Libraries
+- Spring (Spring Boot, JPA/Hibernate, Spring Security) (Intermediate)
+- React (Intermediate)
+
+### 🗄️ Databases
+- MySQL (Intermediate)
+- Oracle (Intermediate)
+- Firebase (Intermediate)
+
+### 🛠️ Build Tools
+- Maven (Intermediate)
+- Vite (Intermediate)
+
+### 🧰 Development Tools / IDEs
+- IntelliJ IDEA (Advanced)
+- Eclipse (Advanced)
+- Android Studio (Advanced)
+- Visual Studio Code (Advanced)
 
 ## 🛠️ Projects
 
