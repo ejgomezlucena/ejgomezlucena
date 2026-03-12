@@ -103,6 +103,20 @@ Features:
 
 ---
 
+### 🐦 X Follow Card
+React component that replicates the **follow card interface from X (Twitter)**.
+
+Features:
+- Built with **React**
+- **Reusable component architecture**
+- **State management with React Hooks**
+- Dynamic follow/unfollow button
+- Styled using **CSS**
+
+🔗 https://github.com/ejgomezlucena/X-Follow-Card
+
+---
+
 ### 📚 Library Management System
 Library management application developed as part of academic coursework.
 
